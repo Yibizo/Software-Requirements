@@ -22,15 +22,22 @@ _Table of content generated using VSCode plugin [Markdown TOC](https://marketpla
 # Introduction
 
 ## Purpose
-Set the expectation for the product you’re building. So, start by defining the purpose of your product.
+Create a video game focused on inspiring vocations in STEM (Biotechnology, Agriculture and Livestock, Physicomathematical and Earth Earth Sciences, ICT Software and Services, Industrial engineering and transportation, Pharmaceuticals and biotechnology), as well as dveelop cognitive abilities (creativity, communication, colaborative work, crticial thinking, problem-solving, data alphabetization, digital alphabetization and computational sciences).
 
 ## Scope
+- Benefits: 
+- Objectives: 
+- Goals: 
 Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
 
 ## Definitions and Acronyms
+- STEM:
+- STEAM: 
+- 
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
+The team's going to build a new product 
 Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
 
 These are important to describe upfront, so everyone knows what you’re building.
