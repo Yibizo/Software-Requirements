@@ -38,6 +38,7 @@ Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
 The team's going to build a turn-based rpg with a focus on programming from scratch. Combat will be replaced with basic terminal problems and questions in order to explore said topic, as well as an overworld to promote critical-thinking. The videogame will be hosted within a webpage created by the team. Finally, user data and activity inside the videogame will be tracked, registered and displayed within the website to show the game's efficieny in terms of encouragement towards STEAM vocations.
+
 Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
 
 These are important to describe upfront, so everyone knows what you’re building.
