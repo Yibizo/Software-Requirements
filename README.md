@@ -31,13 +31,13 @@ Create a video game focused on inspiring vocations in STEM (Biotechnology, Agric
 Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
 
 ## Definitions and Acronyms
-- STEM:
-- STEAM: 
+- STEM: an abbreviation for science, technology, engineering, and mathematics education
+- STEAM: an abbreviation for science, technology, engineering, arts, and mathematics education
 - 
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
-The team's going to build a new product 
+The team's going to build a videogame from scratch
 Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
 
 These are important to describe upfront, so everyone knows what you’re building.
@@ -56,6 +56,10 @@ Finally, you should note if your project is dependent on any external factors. T
 This is where you detail the specific requirements for building your product.
 
 ## Functional Requirements
+- Have a complete and playable videogame
+- Host the videogame within the webpage
+- Track user data correpsonding to activity inside the videogame
+- Display user information in order to determine system effcieny
 The functional requirements describe the services and functions of a system. Functional requirements must be precise and unambiguous.
 
 Include user stories, which are short descriptions of a feature, told from the perspective of one of your end user profiles. They are typically structured in the following fashion:
