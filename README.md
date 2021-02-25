@@ -36,6 +36,7 @@ Describe the software being specified. Include benefits, objectives, and goals. 
 - RPG: role playing game
 - terminal: refers to a terminal that can be seen within any modern code editor
 - dashboard: type of interface which presents information to the user
+
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
@@ -86,6 +87,7 @@ There are several types of interfaces you may have requirements for, including:
     - 4gb of RAM
     - Intel Core I3 or AMD Ryzen 3
     - 500mb of storage
+    - 2.0GHz processor
 - Software
     - Any modern web browser (Chrome, Firefox, etc.)
 - Communications
@@ -104,6 +106,12 @@ The website consists of three pages; the landing page, the dashboard displaying 
 - The landing page includes the games title and a brief description in order to motivate the visitor to play the videgame.
 - The dashboard includes graphs and data of user information and intercations within the videogame in order to evaluate the game efficieny.
 - The third, where the videogame is hosted, just involves a fullscreen view of the game.
+
+The videogame itself contains a few different screens.
+
+- The 2.5D overworld which can be explored, in addition to including puzzles and leading to combat determined by RNG.
+- Combat, in which you are abke to see enemy stats, your stats and options for the turn, which also includes the terminal. 
+- Cutscenes, which are brief and offer no player interaction, apart from skipping said cutscene.
 
 Identifying the individual screens (for an app), or pages (for a website) are where a product’s shape starts to become clear. They are a distillation of the user stories into a set of distinct sections that satisfy the needs and behaviors identified so far. The process of outlining an application’s screens may also highlight any requirements or considerations that have been overlooked up to this point.
 
