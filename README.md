@@ -112,7 +112,7 @@ There are several types of interfaces you may have requirements for, including:
 - The videogame must have at least one overworld, with one final boss
 - The videogame must be hosted within a webpage
 - The website must display user data with high precision
-- The user profile data is confiential and must comply with mexican privacy laws
+- The user profile data is confidential and must comply with mexican privacy laws
 - Users have the right to audit their data and request their removal from the system
 
 Non-functional requirements are restrictions on the system or the development process. Non-functional requirements can be more critical than functional ones. If they are not met, the system is useless!
