@@ -25,9 +25,10 @@ _Table of content generated using VSCode plugin [Markdown TOC](https://marketpla
 Create a video game focused on inspiring vocations in STEM (Biotechnology, Agriculture and Livestock, Physicomathematical and Earth Earth Sciences, ICT Software and Services, Industrial engineering and transportation, Pharmaceuticals and biotechnology), as well as dveelop cognitive abilities (creativity, communication, colaborative work, crticial thinking, problem-solving, data alphabetization, digital alphabetization and computational sciences).
 
 ## Scope
-- Benefits: 
-- Objectives: 
-- Goals: 
+- Benefits: inclusion of women within STEM vocations, as well as the promotion of said subjects
+- Objectives: break barriers, myths and prejudices describing that those types of careers are only for men
+- Goals: Proximity to STEM subjects, without any gender discrimination
+
 Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
 
 ## Definitions and Acronyms
@@ -41,7 +42,7 @@ Describe the software being specified. Include benefits, objectives, and goals. 
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
-The team's going to build a turn-based rpg with a focus on programming from scratch. Combat will be replaced with basic terminal problems and questions in order to explore said topic, as well as an overworld to promote critical-thinking. The videogame will be hosted within a webpage created by the team. Finally, user data and activity inside the videogame will be tracked, registered and displayed within the website to show the game's efficieny in terms of encouragement towards STEAM vocations.
+The team's going to build a turn-based rpg with a focus on programming from scratch. Combat will be replaced with basic terminal problems and questions in order to explore said topic, as well as an overworld to promote critical-thinking. The videogame will be hosted within a webpage created by the team. Finally, user data and activity inside the videogame will be tracked, registered and displayed within the website to show the game's efficieny in terms of encouragement towards STEM vocations.
 
 Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
 
@@ -76,7 +77,7 @@ You may want to use the following template table.
 |Title|User story|Importance|Notes|
 |---|---|---|---|
 |_External User_|_As an external user, I want to be able to sign up so that my progress within the videogame is saved_|_Must have_|_Sample Comment_|
-|_STEAM Member_|_As a STEAM member, I want to be able to access and view user data regarding activity within the videogame so that I can determine its efficieny towards the promotion of STEAM vocations_|_Must have_|_Sample comment_|
+|_STEM Member_|_As a STEM member, I want to be able to access and view user data regarding activity within the videogame so that I can determine its efficieny towards the promotion of STEM vocations_|_Must have_|_Sample comment_|
 |_External User_|_As an external user, I want the videogame to not be too hard and frustrating, but also not too easy and boring so that I have an enjoyable experience_|_Should have_|_Sample comment_|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
 
