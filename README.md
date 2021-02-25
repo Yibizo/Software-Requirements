@@ -55,6 +55,10 @@ These are important to describe upfront, so everyone knows what you’re buildin
 User classes and characteristics are critical. You’ll need to define who (different roles) is going to use the product and how. Don't forget to include each user needs.
 
 ## Assumptions and Dependencies
+- We may not be able to develop the project until our professors teach us the subjects necessary for its evolution.
+- We may deliver a different product to what STEM is asking because of the unclarity of the requirements, as well as how long its taking to get specifics.
+- We may be constraint by time and only be able to finish one world, as opposed to the expected three. 
+
 There might be factors that impact your ability to fulfill the requirements outlined in this document. What are those factors?
 
 Are there any assumptions you’re making that could turn out to be false? You should include those here, as well.
@@ -118,7 +122,7 @@ The website consists of three pages; the landing page, the dashboard displaying 
 The videogame itself contains a few different screens.
 
 - The 2.5D overworld which can be explored, in addition to including puzzles and leading to combat determined by RNG.
-- Combat, in which you are abke to see enemy stats, your stats and options for the turn, which also includes the terminal. 
+- Combat, in which you are able to see enemy stats, your stats and options for the turn, which also includes the terminal. 
 - Cutscenes, which are brief and offer no player interaction, apart from skipping said cutscene.
 
 Identifying the individual screens (for an app), or pages (for a website) are where a product’s shape starts to become clear. They are a distillation of the user stories into a set of distinct sections that satisfy the needs and behaviors identified so far. The process of outlining an application’s screens may also highlight any requirements or considerations that have been overlooked up to this point.
