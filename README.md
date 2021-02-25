@@ -77,7 +77,7 @@ You may want to use the following template table.
 |---|---|---|---|
 |_External User_|_As an external user, I want to be able to sign up so that my progress within the videogame is saved_|_Must have_|_Sample Comment_|
 |_STEAM Member_|_As a STEAM member, I want to be able to access and view user data regarding activity within the videogame so that I can determine its efficieny towards the promotion of STEAM vocations_|_Must have_|_Sample comment_|
-|_External User_|_As an external user, I want to the game to not be too hard and frustrating, but also not too easy and boring so that I have an enjoyable experience within the videogame_|_Should have_|_Sample comment_|
+|_External User_|_As an external user, I want the videogame to not be too hard and frustrating, but also not too easy and boring so that I have an enjoyable experience_|_Should have_|_Sample comment_|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
 
 ## External Interface Requirements
