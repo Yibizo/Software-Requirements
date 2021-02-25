@@ -34,6 +34,7 @@ Describe the software being specified. Include benefits, objectives, and goals. 
 - STEM: science, technology, engineering, and mathematics education
 - STEAM: science, technology, engineering, arts, and mathematics education
 - RPG: role playing game
+- RNG: random number generator, often only refers to events determined by random chance
 - terminal: refers to a terminal that can be seen within any modern code editor
 - dashboard: type of interface which presents information to the user
 
