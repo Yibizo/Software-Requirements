@@ -76,10 +76,17 @@ You may want to use the following template table.
 External interface requirements are types of functional requirements. They outline how your product will interface with other components or systems.
 
 There are several types of interfaces you may have requirements for, including:
-- User
+- User:
+    - Have a playable videogame that is not too hard and frustrating, but also not too easy and boring that induces STEM abilities.
+    - Have a clear and inductive way to access user data according to the videogame's efficieny
 - Hardware
+    - 4gb of RAM
+    - Intel Core I3 or AMD Ryzen 3
+    - 500mb of storage
 - Software
+    - Any modern web browser (Chrome, Firefox, etc.)
 - Communications
+    - ??
 
 ## Non-functional Requirements
 Non-functional requirements are restrictions on the system or the development process. Non-functional requirements can be more critical than functional ones. If they are not met, the system is useless!
