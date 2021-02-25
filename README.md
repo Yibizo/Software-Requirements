@@ -49,6 +49,9 @@ Describe what you’re going to build. Is it an update to an existing product? I
 These are important to describe upfront, so everyone knows what you’re building.
 
 ## User classes
+- External users: 
+- STEM members: 
+
 User classes and characteristics are critical. You’ll need to define who (different roles) is going to use the product and how. Don't forget to include each user needs.
 
 ## Assumptions and Dependencies
