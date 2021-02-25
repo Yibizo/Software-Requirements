@@ -31,9 +31,11 @@ Create a video game focused on inspiring vocations in STEM (Biotechnology, Agric
 Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
 
 ## Definitions and Acronyms
-- STEM: an abbreviation for science, technology, engineering, and mathematics education
-- STEAM: an abbreviation for science, technology, engineering, arts, and mathematics education
-- 
+- STEM: science, technology, engineering, and mathematics education
+- STEAM: science, technology, engineering, arts, and mathematics education
+- RPG: role playing game
+- terminal: refers to a terminal that can be seen within any modern code editor
+- dashboard: type of interface which presents information to the user
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
