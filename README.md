@@ -76,6 +76,12 @@ You may want to use the following template table.
 |Title|User story|Importance|Notes|
 |---|---|---|---|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
+|---|---|---|---|
+|_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
+|---|---|---|---|
+|_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
+|---|---|---|---|
+|_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
 
 ## External Interface Requirements
 External interface requirements are types of functional requirements. They outline how your product will interface with other components or systems.
