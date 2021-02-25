@@ -89,6 +89,10 @@ There are several types of interfaces you may have requirements for, including:
     - ??
 
 ## Non-functional Requirements
+- The database must register user actions and progress within the videogame
+- The videogame must have at least one overworld, with one final boss
+- The videogame must be hosted within a webpage
+- The webpage must display user data with high precision
 Non-functional requirements are restrictions on the system or the development process. Non-functional requirements can be more critical than functional ones. If they are not met, the system is useless!
 
 # Screens
