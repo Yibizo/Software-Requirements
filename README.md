@@ -97,6 +97,12 @@ There are several types of interfaces you may have requirements for, including:
 Non-functional requirements are restrictions on the system or the development process. Non-functional requirements can be more critical than functional ones. If they are not met, the system is useless!
 
 # Screens
+The website consists of three pages; the landing page, the dashboard displaying user data and the page where the videogame is hosted.
+
+- The landing page includes the games title and a brief description in order to motivate the visitor to play the videgame.
+- The dashboard includes graphs and data of user information and intercations within the videogame in order to evaluate the game efficieny.
+- The third, where the videogame is hosted, just involves a fullscreen view of the game.
+
 Identifying the individual screens (for an app), or pages (for a website) are where a product’s shape starts to become clear. They are a distillation of the user stories into a set of distinct sections that satisfy the needs and behaviors identified so far. The process of outlining an application’s screens may also highlight any requirements or considerations that have been overlooked up to this point.
 
 This has the dual purpose of both contributing to a more accurate vision of the product early on, and serving as a jumping-off point for the time when designers do get involved.
