@@ -75,12 +75,9 @@ You may want to use the following template table.
 
 |Title|User story|Importance|Notes|
 |---|---|---|---|
+|_Short identifier_|_As an external user, I want to be able to sign up so that my progress within the videogame is saved_|_Must have_|_Sample Comment_|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
-|---|---|---|---|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
-|---|---|---|---|
-|_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
-|---|---|---|---|
 |_Short identifier_|_As a [type of user], I want [some goal] so that [some reason]_|_Must have_|_Write here any additional consideration_|
 
 ## External Interface Requirements
