@@ -22,11 +22,11 @@ _Table of content generated using VSCode plugin [Markdown TOC](https://marketpla
 # Introduction
 
 ## Purpose
-Create a video game focused on inspiring vocations in STEM (Biotechnology, Agriculture and Livestock, Physicomathematical and Earth Earth Sciences, ICT Software and Services, Industrial engineering and transportation, Pharmaceuticals and biotechnology), as well as dveelop cognitive abilities (creativity, communication, colaborative work, crticial thinking, problem-solving, data alphabetization, digital alphabetization and computational sciences). In addition to this, track and register all user data and activity within the videogame in order to determine its effciency. 
+Create a video game focused on inspiring vocations in STEM (Biotechnology, Agriculture and Livestock, Physicomathematical and Earth Earth Sciences, ICT Software and Services, Industrial engineering and transportation and Pharmaceuticals), as well as develop cognitive abilities (creativity, communication, colaborative work, crticial thinking, problem-solving, data alphabetization, digital alphabetization and computational sciences). In addition to this, track and register all user data and activity within the videogame necessary to determine its effciency. 
 
 ## Scope
 - Benefits: inclusion of women within STEM vocations, as well as the promotion of said subjects
-- Objectives: break barriers, myths and prejudices describing that those types of careers are only for men
+- Objectives: break barriers, myths and prejudices that describe those types of career paths as 'only for men'
 - Goals: Proximity to STEM subjects, without any gender discrimination
 
 Describe the software being specified. Include benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to the SRS
@@ -42,7 +42,7 @@ Describe the software being specified. Include benefits, objectives, and goals. 
 Include any non-trivial definition or acronym used in the document.
 
 # Overall Description
-The team's going to build a turn-based rpg with a focus on programming from scratch. Combat will be replaced with basic terminal problems and questions in order to explore said topic, as well as an overworld to promote critical-thinking. The videogame will be hosted within a webpage created by the team. Finally, user data and activity inside the videogame will be tracked, registered and displayed within the website to show the game's efficieny in terms of encouragement towards STEM vocations.
+The team's going to build a turn-based rpg with a focus on programming from scratch. Combat will be replaced with basic terminal problems and questions in order to explore said topic, as well as an overworld to promote critical-thinking. The videogame will be hosted within a webpage created by the team. Finally, user data and activity inside the videogame will be tracked, registered and displayed on the website to show the game's efficieny in terms of encouragement towards STEM vocations.
 
 Describe what you’re going to build. Is it an update to an existing product? Is it a new product? Is it an add-on to a product you’ve already created?
 
@@ -72,7 +72,7 @@ This is where you detail the specific requirements for building your product.
 - Have a complete and playable videogame
 - Host the videogame within the webpage
 - Track user data correpsonding to activity inside the videogame
-- Display user information in order to determine system effcieny
+- Display user information in order to determine system efficiency
 The functional requirements describe the services and functions of a system. Functional requirements must be precise and unambiguous.
 
 Include user stories, which are short descriptions of a feature, told from the perspective of one of your end user profiles. They are typically structured in the following fashion:
@@ -93,8 +93,8 @@ External interface requirements are types of functional requirements. They outli
 
 There are several types of interfaces you may have requirements for, including:
 - User:
-    - Have a playable videogame that is not too hard and frustrating, but also not too easy and boring that induces STEM abilities.
-    - Have a clear and inductive way to access user data according to the videogame's efficieny
+    - Have a playable videogame with problems that are solvable in under 2 minutes, but also not too easy and boring where an unexperienced player can solve it in under 5 seconds and that induces STEM abilities.
+    - Have a clear and intuitive way to access user data according to the videogame's efficieny by having an uncluttered interface.
 - Hardware
     - 4gb of RAM
     - Intel Core I3 or AMD Ryzen 3
@@ -126,7 +126,7 @@ The website consists of three pages; the landing page, the dashboard displaying 
 
 The videogame itself contains a few different screens.
 
-- The 2.5D overworld which can be explored, in addition to including puzzles and leading to combat determined by RNG.
+- The 2D overworld which can be explored, in addition to including puzzles and leading to combat determined by RNG.
 - Combat, in which you are able to see enemy stats, your stats and options for the turn, which also includes the terminal. 
 - Cutscenes, which are brief and offer no player interaction, apart from skipping said cutscene.
 
